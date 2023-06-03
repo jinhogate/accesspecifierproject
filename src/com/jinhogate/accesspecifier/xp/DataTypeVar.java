@@ -12,7 +12,7 @@ package com.jinhogate.accesspecifier.xp;
  */
 public class DataTypeVar {
 	public static void main(String[] args) {
-		var nom = "KOSSI";
+		var nom = "HERVE";
 		nom = String.valueOf(8);
 		System.out.println(nom);
 //		var age = 8, annee = 1995;
