@@ -4,8 +4,8 @@ package com.jinhogate.accesspecifier.xp;
  *  + Le type var permet de déclarer une variable sans spécifier un type précis
  *  + La détermination du type de la variable se fait automatiquement à travers  type de la valeur d'init
  *  - Il n'autorise pas cependant : 
- *  	# la déclaration composée (L17)
- *  	# la déclaration d'une variable sans initialisation (L18)
+ *  	# la déclaration composée (L18)
+ *  	# la déclaration d'une variable sans initialisation (L19)
  *  Le var a été introduit dans le JDK10 (Java10)
  * @author JINHOGATE
  *
